@@ -1,0 +1,9 @@
+With the help of this you can easily extract any blog over the surface web
+
+Note: make sure to keep all the python files in the same directory
+
+Step 1: paste your URL in the store url python file to variable named yoururl.
+
+Step 2: run the blogextract.py to extract text from the given url of the blog, the file will be saved by the name output in the same directory as this project
+
+Step 3: run the bloganalysis.py to get the analysis of the blog that you have copies
